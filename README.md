@@ -21,7 +21,7 @@
 
 ### 🚀 About Me
 
-I enjoy breaking down complex problems, designing structured instructions, evaluating and testing Web applications, and iteratively refining solutions to build practical systems. My work spans AI-powered healthcare and cybersecurity, including multimodal dementia screening and firmware security analysis, while I also build and lead a growing EH community. I am working on improving my ML skills and delivering Production grade Business Models.
+I enjoy breaking down complex problems, designing structured instructions, evaluating and testing Web applications, and iteratively refining solutions to build practical systems. My work spans AI-powered healthcare and cybersecurity, including multimodal dementia screening and firmware security analysis, while I also build and lead of growing EH community. I am working on improving my ML skills and delivering Production grade Business Models.
 
 - 📫 **Contact:** [ianubhavsharma05@gmail.com](mailto:ianubhavsharma05@gmail.com)
 - 🔗 **LinkedIn:** [Anubhav Sharma](https://linkedin.com/in/sgtanubhav)
