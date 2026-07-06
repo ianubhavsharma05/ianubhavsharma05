@@ -25,8 +25,6 @@ I enjoy breaking down complex problems, designing structured instructions, evalu
 
 - 📫 **Contact:** [ianubhavsharma05@gmail.com](mailto:ianubhavsharma05@gmail.com)
 - 🔗 **LinkedIn:** [Anubhav Sharma](https://linkedin.com/in/sgtanubhav)
-- 👨‍💻 **Coding Profile:** Codeforces
-- 🛡️ **Hacking Profile:** TryHackMe
 
 ---
 
