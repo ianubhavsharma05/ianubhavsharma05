@@ -32,7 +32,7 @@ I enjoy breaking down complex problems, designing structured instructions, evalu
 
 - 🥇 **Aavishkar 5.0 Winner (2026):** Placed 1st out of 150+ teams by building an AI-driven early dementia detection system.
 - 🌟 **Top 60 Hacknovate 7.0 (2026):** Placed Top 60 out of 1200+ teams and working on an AIML-based Deepfake Detection System.
-- 🤺 **AMD-Ryzen Slingshot (2026):**  Selected for AMD-Slingshot Ideathon.
+- 🤺 **AMD-Ryzen Slingshot (2026):**  Selected for AMD-Slingshot Ideathon Top 200 out of 10,000+ teams.
 
 ---
 
