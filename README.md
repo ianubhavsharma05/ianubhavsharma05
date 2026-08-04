@@ -21,7 +21,7 @@
 
 ### 🚀 About Me
 
-I enjoy breaking down complex problems, designing structured instructions, evaluating and testing Web applications, and iteratively refining solutions to build practical systems. My work spans AI-powered healthcare and cybersecurity, including multimodal dementia screening and firmware security analysis, while I also build and lead of growing EH community. I am working on improving my ML skills and delivering Production grade Business Models.
+B.Tech (2nd Year) Computer Science and Engineering (AI) student and Cybersecurity (GRC) practitioner with experience in healthcare and cybersecurity projects through hackathons and personal projects. Skilled in Ethical Hacking, Web Security, Google Cloud, Data Privacy (Privacy by Design and Privacy Principles), Docker, and Python, with a focus on building secure and practical solutions.
 
 - 📫 **Contact:** [ianubhavsharma05@gmail.com](mailto:ianubhavsharma05@gmail.com)
 - 🔗 **LinkedIn:** [Anubhav Sharma](https://linkedin.com/in/sgtanubhav)
