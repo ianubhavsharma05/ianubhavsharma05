@@ -34,6 +34,7 @@ I enjoy breaking down complex problems, designing structured instructions, evalu
 - 🌟 **Top 60 Hacknovate 7.0 (2026):** Placed Top 60 out of 1200+ teams and working on an AIML-based Deepfake Detection System.
 - 🤺 **AMD-Ryzen Slingshot (2026):**  Selected for AMD-Slingshot Ideathon Top 200 out of 10,000+ teams.
 - 🎟️ **MLH-Major League Hacking:**    Participated for MLH-HexaFalls At JIS UNIVERSITY KOLKATA Top 500 out of 3,000+ teams.
+- ✈️ **HALXIITINDORE , ISRO:** Participated for National Level Hackathon At ISRO as well as HAL.
 ---
 
 ### 💻 Tech Stack & Tools
